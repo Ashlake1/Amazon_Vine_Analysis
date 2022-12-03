@@ -2,8 +2,7 @@
 
 ## Analysis Overview
 
-The Amazon_Vine_Analysis program explores if there is a positivity bias torwards the reviews on US Video Games for Vine members. By using PySpark to extract the dataset and then transform them. I then connected to and created an AWS RDS instance. From there I loaded and transformed the data into PGAdmin. Once the data was loaded and transformed, I then used PySpark to determine bias.
-
+The Amazon_Vine_Analysis program explores if there is a positivity bias torwards the reviews on US Video Games for Vine members. 
 
 ## Results
 
